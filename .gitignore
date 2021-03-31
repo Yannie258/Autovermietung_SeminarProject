@@ -1,0 +1,27 @@
+Planung/
+autovermietung/node_modules
+.DS_Store
+Autovermietung/dist/
+autovermietung/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+Autovermietung/node_modules/
+Autovermietung/test/unit/coverage/
+Autovermietung/test/e2e/reports/
+autovermietung/node_modules/
+autovermietung/test/unit/coverage/
+autovermietung/test/e2e/reports/
+selenium-debug.log
+Planung/
+SQLite/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.exe
+
